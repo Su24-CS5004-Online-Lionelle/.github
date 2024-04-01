@@ -1,12 +1,21 @@
 # Summer 2024 - CS 5004 - Online - Lionelle - Syllabus
 
+The course provides an intensive tour of class-based program design and the design of abstractions that support the design of reusable software and libraries. It reviews typical object-oriented concepts such as information hiding, encapsulation and various forms of polymorphism. It contrasts the use of inheritance and composition as dual techniques for software reuse. It provides a deeper understanding of object-oriented design using the use of graphical design notations such as UML and object-oriented design patterns. It also examines the relationship between algorithms and data structures, as well as basic techniques for analyzing algorithm complexity. Finally, it emphasizes on testing, specifically unit testing of components.
+
 
 ## Prerequisites
 
-The course is suitable for students in good standing in the ALIGN MS in CS program that have successfully completed CS 5001 and ideally CS 5002.
+The course is suitable for students in good standing in the ALIGN MS in CS program that have successfully completed CS 5001 with a B or higher.
 
 ## Course Objectives 
+By the end of this course, you should be able to:
 
+1. Design an object-oriented solution to small and moderately sized problems.
+2. Implement a given object-oriented design in the Java programming language.
+3. Generate appropriate documentation for developed solutions.
+4. Design unit tests for a given component and implement them.
+5. Create, refine, and express a design in graphical notation such as UML diagrams.
+6. Explore existing documentation to describe and use existing libraries and frameworks.
 
 ## Student Participation
 This course has a combination of videos, assignments, and team meetings. Teams will be assigned week 2, and students will be expected to meet with their team for once a week based on a time they arrange as a team. Students will be expected to participate in the team meetings, and will be expected to contribute to the team's work.
@@ -82,7 +91,7 @@ All grades in this course, while on a point scale, translate into a final percen
 
 The above grading scheme is slightly modified from your traditional +/- scheme as follows:
 * A- intentionally removed, as A+ doesn't give a GPA boost, to balance out an A-
-* plus/minus grading is used for other grading categories, to better reflect borderline grades. Students are rarely in a borderline situation.
+* plus/minus grading is used for other grading categories, to better reflect borderline grades.
 
 
 Grade boundaries are subject to change at the discretion of the instructor, but they will not become more difficult to achieve a grade.  
